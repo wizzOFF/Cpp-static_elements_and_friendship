@@ -1,0 +1,1 @@
+# Cpp-static_elements_and_friendship
